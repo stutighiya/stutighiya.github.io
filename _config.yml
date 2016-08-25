@@ -11,3 +11,5 @@ name: west coast stuti
 # Build settings
 markdown: kramdown
 
+permalink: /blog/:year/:month/:day/:title
+
