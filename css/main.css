@@ -1,4 +1,8 @@
 @charset "utf-8";
+@font-face {
+  font-family: "Cookie";
+  src: url(/assets/fonts/cookie/cookie-regular.ttf) format("truetype");
+}
 
 body {
     margin: 60px auto;
@@ -23,11 +27,12 @@ a:hover {
 }
 h1 {
     font-size: 4em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif'
+    font-family: "Cookie", Monaco, monospace
 }
 p {
-    font-size: 1.2em;
-    line-height: 1.1em;
+    font-family: Georgia, serif;
+    font-size: 1em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
@@ -36,10 +41,12 @@ footer {
 }
 
 ul.posts { 
+    font-family: Georgia, serif;
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family: Georgia, serif;
     list-style: none;
 }
