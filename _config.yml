@@ -7,8 +7,14 @@
 
 # Site settings
 name: west coast stuti 
+author: stutighiya
+#url: stutighiya.github.io
+#baseurl: /blog
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-feed
+  
 permalink: /blog/:year/:month/:day/:title
 
