@@ -28,14 +28,14 @@ If you have a different perspective, please share!
 
 <h2>West Coast Update</h2>
 I finally made it to San Francisco after moving out to the bay. I thought the sea lions were lounging at Pier 39 just for me, but apparently they're not picky. Here's a picture:
-<div style="text-align: center;"><img src="/assets/imgs/sealions.jpg" alt="sealions" align="middle"></div>
+<div style="text-align: center;"><img src="/assets/imgs/sea_lions.jpg" alt="sealions" align="middle"></div>
 
 <h2>How to Subscribe</h2>
 I added an RSS feed that you can now subscribe to. If your browser has a feed detector, you should be able to detect this blog's feed. If you use an RSS reader, you can subscribe by adding [my homepage](https://stutighiya.github.io). 
 
 If you don't use an RSS reader yet, my favorite one is [Feedly](https://feedly.com). I've been using it ever since Google ended (the greatly missed) Google Reader.
 
-<h3>How can I create a blog?</h3>
+<h3>How do I create a blog?</h3>
 A few of you have asked me this, so: I built this website using the skeleton provided by [Jekyll](https://jekyllrb.com/). This blog is hosted on [GitHub](https://github.com/stutighiya). Click on the link to view all the source code for this blog. 
 
 
