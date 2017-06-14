@@ -19,23 +19,23 @@ tags:
 
 4. **Software Engineering (SE)**: Based on my understanding, this field applies to any industry that relies on software. Software engineers focus on how to make systems that are reliable, testable, and scalable. I also believe that in an academic sense, SE students are taught how to derive requirements and build "good" software in general. I think both computer engineers and computer scientists can be qualified as software engineers.
 
-<h3>A Little More Info</h3>
+<h4>A Little More Info</h4>
  When you plug in your laptop and push the power button, what actually happens? You're converting a voltage source into an appropriate voltage for the circuitry in your computer's hardware. Take USB - your laptop circuitry probably has USB controller chips to manage voltages and data flow. When you plug in a USB drive, how does your computer know what to do? Engineers write drivers that enable operating systems to connect to USB sticks. Lastly, writing and reading data from the USB drive requires its own protocol. This protocol is written into the OS or individual applications to communicate with such peripherals. 
 
 The explanations here are generalized, and many people are not strictly "electrical engineers" or "computer scientists." The intention was to explain the different fields and where the lines begin to blur. I stayed on the topic of computers and embedded systems, but ECE/CS includes power, imaging/sensing, networking, security, and more.
 
 If you have a different perspective, please share!
 
-<h2>West Coast Update</h2>
+<h3>West Coast Update</h3>
 I finally made it to San Francisco after moving out to the bay. I thought the sea lions were lounging at Pier 39 just for me, but apparently they're not picky. Here's a picture:
 <div style="text-align: center;"><img src="/assets/imgs/sea_lions.jpg" alt="sealions" align="middle"></div>
 
-<h2>How to Subscribe</h2>
+<h3>How to Subscribe</h3>
 I added an RSS feed that you can now subscribe to. If your browser has a feed detector, you should be able to detect this blog's feed. If you use an RSS reader, you can subscribe by adding [my homepage](https://stutighiya.github.io). 
 
 If you don't use an RSS reader yet, my favorite one is [Feedly](https://feedly.com). I've been using it ever since Google ended (the greatly missed) Google Reader.
 
-<h3>How do I create a blog?</h3>
+<h4>How do I create a blog?</h4>
 A few of you have asked me this, so: I built this website using the skeleton provided by [Jekyll](https://jekyllrb.com/). This blog is hosted on [GitHub](https://github.com/stutighiya). Click on the link to view all the source code for this blog. 
 
 
