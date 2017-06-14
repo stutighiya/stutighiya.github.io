@@ -4,27 +4,17 @@
   src: url(/assets/fonts/cookie/Cookie-Regular.ttf) format("truetype");
 }
 
-@font-face {
-  font-family: "Roboto";
-  src: url(/assets/fonts/roboto_light_macroman/Roboto-Light-webfont.ttf) format("truetype");
-}
-@font-face {
-  font-family: "RobotoItal";
-  src: url(/assets/fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.ttf) format("truetype");
-}
-
 body {
     margin: 60px auto;
     max-width: 540px;
-    font-family: "Roboto", 'Arial', 'Sans-Serif';
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.5em;
 }
 nav ul, footer ul {
     line-height: 1em;
     padding: 0px;
     list-style: none;
-    font-weight: bold;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif'
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul li, footer ul li {
     display: inline;
@@ -46,12 +36,13 @@ h1 {
     color: #5259af;
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 2em;
+    font-family: "Cookie", Monaco, monospace;
     color: #73D2DE;
 }
 h3 {
     font-size: 1em;
-    font-family: "RobotoItal", "Helvetica", serif;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     color: #56E39F;
 }
 p {
@@ -69,6 +60,6 @@ ul.posts {
 }
 
 ul.posts li {
-    font-family: "RobotoItal", "Helvetica", serif;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
 }
