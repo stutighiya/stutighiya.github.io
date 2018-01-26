@@ -12,3 +12,17 @@ title: west coast stuti
 	</ul>
 
 </div><!-- /.bloglist -->
+
+ <div id="instafeed"></div>
+ <p> test </p>
+  <script src="../assets/dls/instafeed.min.js"></script>
+  <script>
+    var feed = new Instafeed({
+      get: 'user',
+      userId: 31127110, // Ex: 1374300081
+      clientID: 79065ce68b524fa8a8c0509ef5789bd0,
+      limit: 9
+      sortBy: most-recent, 
+    });
+    feed.run();
+  </script>
