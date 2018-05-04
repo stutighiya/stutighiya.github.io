@@ -13,7 +13,7 @@ Hi all! It's already MAY! To celebrate the warm weather, I compiled a list of Za
 
 [Click here to import](https://www.evernote.com/l/AFvq-Y_vhFtJrrA6DWyNDD1qVWAUHZmoMKI) into [Evernote](https://evernote.com/).
 
-This semester, I am taking Exponential Innovation. In class, we discuss how technologies converge and "go exponential". We've had a few writing prompts and are encouraged to share our writing on LinkedIn. Check mine out below.
+In other news, this semester, I took a course called Exponential Innovation. In class, we discussed how technologies converge and "go exponential". We've had a few writing prompts and were encouraged to share our writing on LinkedIn. Check mine out below if the topics interest you!
 
 * [2018: Return of the Space Race](https://www.linkedin.com/pulse/2018-return-spacerace-stuti-ghiya/) *(3 minutes)*
 
@@ -22,4 +22,6 @@ This semester, I am taking Exponential Innovation. In class, we discuss how tech
 * [Singing praises of the music-streaming industry.](https://www.linkedin.com/pulse/singing-praises-music-streaming-industry-stuti-ghiya/) *(3 minutes)*
 
 * [Cybersecurity: No more Band-Aids for an industry requiring redesign](https://www.linkedin.com/pulse/cybersecurity-more-band-aids-industry-requiring-redesign-stuti-ghiya/) *(3 minutes)*
+
+That's all this time. Texas friends: Let me know if you manage to make it to all of these ice cream spots! :)
 
